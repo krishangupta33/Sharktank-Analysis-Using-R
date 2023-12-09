@@ -1,0 +1,8 @@
+read csv
+
+```{r}
+data=read.csv("Dataset 3 — Shark tank pitches.csv")
+
+#show the first 6 rows
+head(data)
+```
